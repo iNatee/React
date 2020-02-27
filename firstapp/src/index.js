@@ -7,7 +7,8 @@ import Webs from './images/Webs.png'
 import Crosswords from './images/Crossword.jpg'
 import './index.css'
 
-let bookList = [
+let bookList = 
+[
     {
         "title": "The Sun Also Rises", "author": "Ernest Hemmingway", "pages": 260, "image": TheSun,
         "link": "https://www.amazon.co.uk/s?k=The+Sun+Also+Rises&ref=nb_sb_noss_2", "formatting": "oddSection"
